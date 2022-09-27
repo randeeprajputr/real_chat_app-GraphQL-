@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "apollo-server": "^3.10.2",
+    "graphql": "^16.6.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.23.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "realchat",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
